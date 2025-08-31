@@ -1,0 +1,61 @@
+{
+  "name": "July Ribeiro",
+  "photo": "https://julyribeiro.github.io/portfolio/assets/imgs/foto-perfil.png",
+  "job": "Auxiliar Administrativo | Estudante de ADS",
+  "location": "São Paulo - SP",
+  "phone": "(11) 93466-9391",
+  "email": "devjurib@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      },
+      {
+        "name": "Git/GitHub",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português (nativo)",
+    "Inglês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Portfólio Pessoal",
+      "url": "https://julyribeiro.github.io/portfolio",
+      "github": true
+    },
+    {
+      "name": "Repositórios GitHub",
+      "url": "https://github.com/julyribeiro",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Auxiliar Administrativo",
+      "period": "2023 - atual",
+      "description": "Atuação em rotinas administrativas, suporte às áreas internas e colaboração em melhorias de processos. Experiência no trabalho em equipe, organização e uso de ferramentas digitais."
+    }
+  ]
+}
